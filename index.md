@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## DBCOMSOC: Databases Meet Computational Social Choice
 
-You can use the [editor on GitHub](https://github.com/DBCOMSOC/DBComSoc.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Summary
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Social choice underlies the equitable and efficient operation of a society. How does one aggregate preferences of individuals, arriving at a society-wide consensus? This question has been the subject of intense debate throughout history, dating as far back as ancient Greece, and, in the past two decades, has led to the development of computational social choice - an interdisciplinary area of research and practice that combines insights from mathematics, logic, economics, and computer science. One of the main foci of computational social choice are the algorithmic aspects of determining actual or potential winners in a poll or in an election. Moreover, dealing with incompleteness and uncertainty (an inherent characteristic of polling) is an important challenge confronted by computational social choice. In recent years, the data management community embarked on an investigation of preference databases, which extend traditional databases by treating preferences on a par with relational data. The main aim of this project is to develop a unifying framework that brings together preferences, rules, outcomes, contextual information, and database query languages.
 
-### Markdown
+### People
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Benny Kimelfeld](https://benny.net.technion.ac.il/) (Associate Professor, Technion, Israel)
 
-```markdown
-Syntax highlighted code block
+[Phokion Kolaitis](https://users.soe.ucsc.edu/~kolaitis/) (Distinguished Professor, UCSC, USA)
 
-# Header 1
-## Header 2
-### Header 3
+[Julia Stoyanovich](http://www.stoyanovich.org) (Assistant Professor, NYU, USA)
 
-- Bulleted
-- List
+### Papers
 
-1. Numbered
-2. List
+"Computational Social Choice Meets Databases", Benny Kimelfeld, Phokion Kolaitis and Julia Stoyanovich. IJCAI 2018. [pdf](https://www.ijcai.org/proceedings/2018/44 )
 
-**Bold** and _Italic_ and `Code` text
+### Funding
 
-[Link](url) and ![Image](src)
-```
+This work is generously supported by the US National Science Foundation (NSF).
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DBCOMSOC/DBComSoc.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+NSF Grant No. [1813888](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1813888&HistoricalAwards=false) "Databases Meet Computational Social Choice", 7/15/2018 - 6/30/2021 (PI: Stoyanovich)
