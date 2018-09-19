@@ -20,6 +20,6 @@ Social choice underlies the equitable and efficient operation of a society. How 
 
 This work is generously supported by the US National Science Foundation (NSF) and by the US-Israel Binational Science Foundation (BSF).
 
-NSF Grant No. [1813888](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1813888&HistoricalAwards=false) "NSF-BSF: III: Small: Collaborative Research: Databases Meet Computational Social Choice", 7/15/2018 - 6/30/2021 (PI: Stoyanovich)
-
 NSF Grant No. [1814152](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1814152&HistoricalAwards=false) "NSF-BSF: III: Small: Collaborative Research: Databases Meet Computational Social Choice", 7/15/2018 - 6/30/2021 (PI: Kolaitis)
+
+NSF Grant No. [1813888](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1813888&HistoricalAwards=false) "NSF-BSF: III: Small: Collaborative Research: Databases Meet Computational Social Choice", 7/15/2018 - 6/30/2021 (PI: Stoyanovich)
