@@ -23,3 +23,5 @@ This work is generously supported by the US National Science Foundation (NSF) an
 NSF Grant No. [1814152](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1814152&HistoricalAwards=false) "NSF-BSF: III: Small: Collaborative Research: Databases Meet Computational Social Choice", 7/15/2018 - 6/30/2021 (PI: Kolaitis)
 
 NSF Grant No. [1813888](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1813888&HistoricalAwards=false) "NSF-BSF: III: Small: Collaborative Research: Databases Meet Computational Social Choice", 7/15/2018 - 6/30/2021 (PI: Stoyanovich)
+
+BSF Grant No. 2017753 "Databases Meet Computational Social Choice" (PI: Kimelfeld)
