@@ -16,6 +16,8 @@ Social choice underlies the equitable and efficient operation of a society. How 
 
 "Computational Social Choice Meets Databases", Benny Kimelfeld, Phokion Kolaitis and Julia Stoyanovich. IJCAI 2018. [pdf](https://www.ijcai.org/proceedings/2018/44 )
 
+"On the Computational Complexity of Non-dictatorial Aggregation", Lefteris Kirousis, Phokion Kolaitis, John Livieratos. RAMICS 2018. [pdf](docs/paper32_Compl_aggr_camera_ready.pdf)
+
 ### Funding
 
 This work is generously supported by the US National Science Foundation (NSF) and by the US-Israel Binational Science Foundation (BSF).
